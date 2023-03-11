@@ -1,0 +1,213 @@
+{
+    "Computerparts": [
+      {
+        "id": 1,
+        "name": "Razer BlackWidow Mechanical Gaming Keyboard Green Switch",
+        "image": "https://img.pccasegear.com/tr:n-gallery/images/RZ03-02860100-thumb.jpg",
+        "price": 149,
+        "category": "Keyboards"
+      },
+      {
+        "id": 2,
+        "name": "Razer BlackWidow V3 Quartz Mechanical Keyboard Green Switch",
+        "image": "https://img.pccasegear.com/tr:n-grid/images/1614832256-RZ03-03541800-thb.jpg",
+        "price": 209,
+        "category": "Keyboards"
+      },
+      {
+        "id": 3,
+        "name": "Akko 3084B Plus Black/Gold RGB Hot-Swap Wireless CS Jelly Pink",
+        "image": "https://img.pccasegear.com/tr:n-gallery/images/6925758617307-thumb.jpg",
+        "price": 169,
+        "category": "Keyboards"
+      },
+      {
+        "id": 4,
+        "name": "Akko 5075B Plus Black & Cyan Multi-Mode CS Silver Keyboard",
+        "image": "https://img.pccasegear.com/tr:n-gallery/images/6925758623360-thumb.jpg",
+        "price": 189,
+        "category": "Keyboards"
+      },
+      {
+        "id": 5,
+        "name": "Microsoft Wired Desktop 600 Keyboard & Mouse Combo Black",
+        "image": "https://img.pccasegear.com/tr:n-gallery/images/APB-00018-thumb.jpg",
+        "price": 35,
+        "category": "Keyboards"
+      },
+      {
+        "id": 6,
+        "name": "Varmilo Panda R2 Mechanical Keyboard EC Ivy V2",
+        "image": "https://img.pccasegear.com/tr:n-gallery/images/1643607453-VA108MA029A1A2A01A026-thb.jpg",
+        "price": 179,
+        "catagory": "Keyboards"
+      },
+      {
+        "id": 7,
+        "name": "Thermaltake ARGENT K6 RGB Low-Profile Mech Keyboard Speed Switch",
+        "image": "https://img.pccasegear.com/tr:n-gallery/images/GKB-KB6-LSSRUS-01-thumb.jpg",
+        "price": 199,
+        "category": "Keyboards"
+      },
+      {
+        "id": 8,
+        "name": "SteelSeries Apex Pro RGB Mechanical Gaming Keyboard",
+        "image": "https://img.pccasegear.com/tr:n-gallery/images/SS-64626-thumb.jpg",
+        "price": 415,
+        "category": "Keyboards"
+      },
+      {
+        "id": 9,
+        "name": "Roccat Vulcan 122 Aimo Tactile Mechanical Gaming Keyboard",
+        "image": "https://img.pccasegear.com/tr:n-gallery/images/ROC-12-941-BN-add1.jpg",
+        "price": 219,
+        "category": "Keyboards"
+      },
+      {
+        "id": 10,
+        "name": "Logitech G815 Lightsync RGB Mechanical Gaming Keyboard Tactile",
+        "image": "https://img.pccasegear.com/tr:n-gallery/images/920-009222-thumb.jpg",
+        "price": 246,
+        "category": "Keyboards"
+      },{
+        "id": 11,
+        "name": "Razer Naga Trinity Chroma Wired MMO Gaming Mouse",
+        "image": "https://img.pccasegear.com/tr:n-gallery/UserFiles/RZ01-02410100-prod2.jpg",
+        "price": 119,
+        "category": "Mouse"
+      },
+      {
+        "id": 12,
+        "name": "ASUS TUF M4 Air Gaming Mouse",
+        "image": "https://img.pccasegear.com/tr:n-gallery/images/1648795085-TUF-GAMING-M4-AIR-01.jpg",
+        "price": 59,
+        "category": "Mouse"
+      },
+      {
+        "id": 13,
+        "name": "Logitech G502 X Plus Wireless Gaming Mouse Black",
+        "image": "https://img.pccasegear.com/tr:n-gallery/UserFiles/910-006164-add0b.jpg",
+        "price": 279,
+        "category": "Mouse"
+      },
+      {
+        "id": 14,
+        "name": "Corsair Dark Core Pro SE RGB Wireless Gaming Mouse",
+        "image": "https://img.pccasegear.com/tr:n-gallery/images/CH-9315511-AP-thumb.jpg",
+        "price": 175,
+        "category": "Mouse"
+      },
+      {
+        "id": 15,
+        "name": "Cougar DualBlader Gaming Mouse",
+        "image": "https://img.pccasegear.com/tr:n-gallery/images/1624321785-CGR-800M-thb.jpg",
+        "price": 119,
+        "category": "Mouse"
+      },
+      {
+        "id": 16,
+        "name": "Logitech G203 Lightsync Gaming Mouse Black",
+        "image": "https://img.pccasegear.com/tr:n-gallery/images/1587948233-910-005790-thb.jpg",
+        "price": 55,
+        "category": "Mouse"
+      },
+      {
+        "id": 17,
+        "name": "Logitech M720 Triathlon Multi-Device Wireless / Bluetooth Mouse",
+        "image": "https://img.pccasegear.com/tr:n-gallery/images/910-004792-add2.jpg",
+        "price": 75,
+        "category": "Mouse"
+      },
+      {
+        "id": 18,
+        "name": "Logitech Pro X Superlight Wireless Gaming Mouse White",
+        "image": "https://img.pccasegear.com/tr:n-gallery/images/1637895625-910-005944-thb.jpg",
+        "price": 219,
+        "category": "Mouse"
+      },
+      {
+        "id": 19,
+        "name": "Razer DeathAdder V2 Pro Wireless Gaming Mouse",
+        "image": "https://img.pccasegear.com/tr:n-gallery/images/1602207911-RZ01-03350100-thb.jpg",
+        "price": 169,
+        "category": "Mouse"
+      },
+      {
+        "id": 20,
+        "name": "Xtrfy M42 Ultra-Light RGB Gaming Mouse Blue",
+        "image": "https://img.pccasegear.com/tr:n-gallery/UserFiles/XG-M42-BLUE-xtrfy-m42-ultra-light-rgb-gaming-mouse-blue-product2.jpg",
+        "price": 109,
+        "category": "Mouse"
+      },
+      {
+        "id": 21,
+        "name": "SteelSeries Arctis Nova Pro Wireless Gaming Headset",
+        "image": "https://img.pccasegear.com/tr:n-gallery/images/1654656565-SS-61520-thb.jpg",
+        "price": 749,
+        "category": "Headsets"
+      },
+      {
+        "id": 22,
+        "name": "Audio-Technica G1 Gaming Headphones",
+        "image": "https://img.pccasegear.com/tr:n-gallery/images/ATH-G1-thumb.jpg",
+        "price": 139,
+        "category": "Headsets"
+      },
+      {
+        "id": 23,
+        "name": "Beyerdynamic DT 1990 Pro 250ohm Studio Reference Headphones",
+        "image": "https://img.pccasegear.com/tr:n-gallery/images/BD-710490-thumb.jpg",
+        "price": 695,
+        "category": "Headsets"
+      },
+      {
+        "id": 24,
+        "name": "Sennheiser HD 660S Over-Ear Open-Back Headphones",
+        "image": "https://img.pccasegear.com/tr:n-gallery/images/508826-add4.jpg",
+        "price": 649,
+        "category": "Headsets"
+      },
+      {
+        "id": 25,
+        "name": "Corsair Virtuoso RGB Wireless Gaming Headset Espresso",
+        "image": "https://img.pccasegear.com/tr:n-gallery/images/1620020883-CA-9011181-AP-thb.jpg",
+        "price": 329,
+        "category": "Headsets"
+      },
+      {
+        "id": 26,
+        "name": "Cooler Master Caliber E1 Gaming Chair Purple",
+        "image": "https://img.pccasegear.com/tr:n-gallery/images/CMI-GCE1-PR-add3.jpg",
+        "price": 239,
+        "category": "Chairs"
+      },
+      {
+        "id": 27,
+        "name": "Cooler Master Calibre X2 Gaming Chair Black",
+        "image": "https://img.pccasegear.com/tr:n-gallery/images/CMI-GCX2-BK-add2.jpg",
+        "price": 449,
+        "category": "Chairs"
+      },
+      {
+        "id": 28,
+        "name": "ONEX GT07-35 Gaming Chair Black Red",
+        "image": "https://img.pccasegear.com/tr:n-gallery/UserFiles/ONEX-GT07-35-BR-onex-gt07-35-gaming-chair-black-red-product1v2.jpg",
+        "price": 699,
+        "category": "Chairs"
+      },
+      {
+        "id": 29,
+        "name": "ONEX GX330 Series Gaming Chair Black Blue",
+        "image": "https://img.pccasegear.com/tr:n-gallery/UserFiles/ONEX-GX330-BB-onex-gx330-series-gaming-chair-black-blue-product1.jpg",
+        "price": 229,
+        "category": "Chairs"
+      },
+      {
+        "id": 30,
+        "name": "noblechairs EPIC PU Leather Gaming Chair Nuka-Cola Edition",
+        "image": "https://img.pccasegear.com/tr:n-gallery/images/1651190369-NBL-PU-FNC-001-thb.jpg",
+        "price": 849,
+        "category": "Chairs"
+      }
+    ]
+  }
