@@ -26,7 +26,7 @@ function App() {
   };
 
   const location = useLocation();
-  const category = location.pathname.slice(1); // remove the leading slash
+  const category = location.pathname.slice(1);
 
   let products = items;
 
